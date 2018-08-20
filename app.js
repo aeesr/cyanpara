@@ -3,7 +3,7 @@ const client = new Discord.Client();
 const fs = require("fs");
 const config = require("./config.json");
 const sf = require("snekfetch")
-const msg = require("./msg.js")
+const msg = require("./utils/msg.js")
 
 client.colors = require("./servers.json");
 
