@@ -202,4 +202,4 @@ function hslToRgb(h, s, l){
 }
 
 //login with this shitty code
-client.login(config.token);
+client.login(process.env.B0T_T0KEN);
