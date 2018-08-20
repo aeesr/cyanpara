@@ -1,3 +1,12 @@
+const Discord = require("discord.js");
+const client = new Discord.Client();
+const fs = require("fs");
+const config = require("./config.json");
+const sf = require("snekfetch")
+const msg = require("./utils/msg.js")
+const color = require("./colors.json");
+const help = require("./helpcommand.js");
+
 {
   "name": "Test",
   "description": "Test",
