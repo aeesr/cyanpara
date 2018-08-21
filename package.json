@@ -1,7 +1,4 @@
-"repository": {
-    "type": "git",
-    "url": "git+https://github.com/aeesr/cyanpara"
- },
+
 {
   "name": "Test",
   "description": "Test",
@@ -14,4 +11,9 @@
     "discord.js": "11.1.0",
     "request": "2.81.0"
   }
+
+"repository": {
+    "type": "git",
+    "url": "git+https://github.com/aeesr/cyanpara"
+ },
 }
